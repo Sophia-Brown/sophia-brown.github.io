@@ -1,13 +1,24 @@
 ---
-title: "sophia-brown.github.io"
+title: "Sophia Brown"
+image: media/Screenshot_20240910_193103_Gallery.jpg
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links: 
+    - icon: github
+    href: 
+    target: blank
+    - icon: linkedin
+    href: 
+    target: blank
+    - text: email
+    icon: envelope
+    href: mailto:sophia.brown@student.chaminade.edu
 ---
 
 Hello!
 
-This is a Quarto website.
+My name is Sophia Brown, I am an undergraduate student at Chaminade University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I love doing BioMedical research, Environmental research, Learning new things and obtaining new certificates.
