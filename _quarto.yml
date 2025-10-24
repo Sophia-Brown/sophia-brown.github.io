@@ -9,10 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - icon: github
+      href: http://github,com/sophia-brown
+      target: blank
+      
 format:
   html:
-    theme: cosmo
+    theme: 
+     light: vapor
+     dark: cosmo
     css: styles.css
     toc: true
 

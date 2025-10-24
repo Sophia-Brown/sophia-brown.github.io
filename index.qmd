@@ -1,6 +1,7 @@
 ---
 title: "Sophia Brown"
 image: media/Screenshot_20240910_193103_Gallery.jpg
+toc: false
 about: 
   template: solana
   image-shape: rectangle
@@ -16,6 +17,14 @@ about:
     icon: envelope
     href: mailto:sophia.brown@student.chaminade.edu
 ---
+
+# This is my heading
+
+## H2
+
+### third heading
+
+this is a [link](google.com).
 
 Hello!
 
