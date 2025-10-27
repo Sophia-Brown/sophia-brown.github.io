@@ -8,10 +8,10 @@ about:
   image-width: 10em
   links: 
     - icon: github
-    href: 
+    href: https://github.com/Sophia-Brown
     target: blank
     - icon: linkedin
-    href: 
+    href: https://www.linkedin.com/feed/?trk=onboarding-landing
     target: blank
     - text: email
     icon: envelope
@@ -30,4 +30,4 @@ Hello!
 
 My name is Sophia Brown, I am an undergraduate student at Chaminade University.
 
-I love doing BioMedical research, Environmental research, Learning new things and obtaining new certificates.
+I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates.

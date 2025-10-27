@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - resume.qmd
       - icon: github
-      href: http://github,com/sophia-brown
-      target: blank
+        href: http://github,com/sophia-brown
+        target: blank
+      -  href: httpl://google.com
+       text: Google
       
 format:
   html:
