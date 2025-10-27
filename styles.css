@@ -1,21 +1,21 @@
 /* css styles */
 p, h1 {
-  color: red;
+  color: white;
 }
 
 h2 {
-  color: green;
+  color: white;
 }
 
 h3 {
-  color: yellow;
-  font-style: italic;
+  color: white;
+  font-style: lato;
 }
 
 body, p { 
-  font-family: Georgia;
+  font-family: lato;
   font-size: 12px;
-  background-color: cornsilk;
+  background-color: none;
 }
 
 li, ul, ol {

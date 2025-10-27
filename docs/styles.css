@@ -1,1 +1,35 @@
 /* css styles */
+p, h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-style: lato;
+}
+
+body, p { 
+  font-family: lato;
+  font-size: 12px;
+  background-color: none;
+}
+
+li, ul, ol {
+  color: brown;
+}
+
+a {
+  color: pink;
+}
+
+a:visited {
+  color: magenta;
+}
+
+a:hover {
+  color: purple;
+}

@@ -5,17 +5,17 @@ toc: false
 about: 
   template: solana
   image-shape: rectangle
-  image-width: 10em
+  image-width: 20em
   links: 
     - icon: github
-    href: https://github.com/Sophia-Brown
-    target: blank
+      href: https://github.com/Sophia-Brown
+      target: blank
     - icon: linkedin
-    href: https://www.linkedin.com/feed/?trk=onboarding-landing
-    target: blank
+      href: https://www.linkedin.com/feed/?trk=onboarding-landing
+      target: blank
     - text: email
-    icon: envelope
-    href: mailto:sophia.brown@student.chaminade.edu
+      icon: envelope
+      href: mailto:sophia.brown@student.chaminade.edu
 ---
 
 # This is my heading
