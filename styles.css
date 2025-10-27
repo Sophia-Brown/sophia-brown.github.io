@@ -1,4 +1,35 @@
 /* css styles */
-p{
+p, h1 {
   color: red;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: yellow;
+  font-style: italic;
+}
+
+body, p { 
+  font-family: Georgia;
+  font-size: 12px;
+  background-color: cornsilk;
+}
+
+li, ul, ol {
+  color: brown;
+}
+
+a {
+  color: pink;
+}
+
+a:visited {
+  color: magenta;
+}
+
+a:hover {
+  color: purple;
 }
