@@ -9,11 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
+      - about.qmd
       - icon: github
         href: http://github,com/sophia-brown
         target: blank
-      - href: httpl://google.com
-        text: Google
       
 format:
   html:

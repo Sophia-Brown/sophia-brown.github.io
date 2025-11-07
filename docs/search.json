@@ -4,20 +4,20 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "HELLO"
+    "text": "HELLO\n{{&lt; pdf media/SophiaBrown_Resume2.pdf &gt;}}"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sophia Brown",
     "section": "",
-    "text": "this is a link.\nHello!\nMy name is Sophia Brown, I am an undergraduate student at Chaminade University.\nI love doing BioMedical research, Environmental research, learning new things and obtaining new certificates."
+    "text": "this is a link.\nHello!\nMy name is Sophia Brown, I am an undergraduate student at Chaminade University.\nI love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award."
   },
   {
-    "objectID": "index.html#h2",
-    "href": "index.html#h2",
+    "objectID": "index.html#h2-2-hashtags",
+    "href": "index.html#h2-2-hashtags",
     "title": "Sophia Brown",
     "section": "",
-    "text": "this is a link.\nHello!\nMy name is Sophia Brown, I am an undergraduate student at Chaminade University.\nI love doing BioMedical research, Environmental research, learning new things and obtaining new certificates."
+    "text": "this is a link.\nHello!\nMy name is Sophia Brown, I am an undergraduate student at Chaminade University.\nI love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award."
   }
 ]

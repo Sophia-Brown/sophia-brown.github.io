@@ -20,7 +20,7 @@ about:
 
 # This is my heading
 
-## H2
+## H2 (2 hashtags)
 
 ### third heading
 
@@ -30,4 +30,4 @@ Hello!
 
 My name is Sophia Brown, I am an undergraduate student at Chaminade University.
 
-I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates.
+I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award.
