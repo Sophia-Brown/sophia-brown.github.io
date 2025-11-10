@@ -8,9 +8,9 @@ links:
       target: blank
 ---
 
-### Penguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another. 
+### Penguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.
 
-Such data can be utilized from the
+Such data can be utilized from the . This data was introduced to me through the CS 201 Introduction to R class.
 
 This is the penguins data.
 
@@ -29,6 +29,6 @@ penguins <- penguins %>%
 
 penguins <- read_csv("data/penguins_lter.csv")
 
-ggplot(penguins, aes(y= culmen_length_mm, x= island)) +
+ggplot(penguins, aes(x= sex, y = flipper_length_mm)) +
   geom_point()
 ```
