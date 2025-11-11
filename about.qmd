@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "about" 
 ---
 
 I have worked with INBRE, GS of America, CIFAL, UN, UH Manoa. Coupled with my work in INBRE, I have experience with IPA software, BioRender, cell culturing and the equipment used for such experience.

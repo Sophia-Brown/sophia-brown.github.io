@@ -1,3 +1,4 @@
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 project:
   type: website
   output-dir: docs
@@ -6,13 +7,16 @@ website:
   title: "sophia-brown.github.io"
   navbar:
     left:
-      - href: index.qmd
+    - href: index.qmd
         text: Home
+      - href: dashboard.qmd
+        text: Dashboard
       - resume.qmd
       - about.qmd
       - icon: github
-        href: http://github,com/sophia-brown
+        href: http://github.com/sophia-brown
         target: blank
+
       
 format:
   html:
