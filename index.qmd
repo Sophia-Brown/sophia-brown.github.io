@@ -18,16 +18,12 @@ about:
       href: mailto:sophia.brown@student.chaminade.edu
 ---
 
-# This is my heading
-
-## H2 (2 hashtags)
-
-### third heading
-
-this is a [link](google.com).
-
-Hello!
-
 My name is Sophia Brown, I am an undergraduate student at Chaminade University.
 
-I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award.
+I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award. I moved to Hawai'i so that I may continue my passion for researching the local flora and fauna where ever I may live at the time.
+
+Thank you Amber Clark for teaching us about coding, data vis, and websites. Although coding causes much headache for us all, you make it far easier to understand. You take the fear out of the coding, you translate it for us, and you help us, cheer us on, and keep your door open to us. Your teaching style, kindness, and *your* openness to learn from us, is truly inspiring. So thank you for being such a great teacher, learner, and role model. I truly respect how much you do, your involvement with so many projects all over the world, and your ability to put up with us.
+
+Thank you.
+
+(PS, how do I put the fancy publishing date at the bottom again?)
