@@ -2,10 +2,6 @@
 title: "dashboard"
 author: Sophia Brown
 Format: html
-links: 
-    - icon: github
-      href: https://github.com/Sophia-Brown
-      target: blank
 ---
 
 ### Penguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.
