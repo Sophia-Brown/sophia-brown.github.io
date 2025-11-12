@@ -15,7 +15,7 @@ about:
       target: blank
     - text: email
       icon: envelope
-      href: mailto: sophia.brown@student.chaminade.edu
+      href: mailto:sophia.brown@student.chaminade.edu 
 ---
 
 My name is Sophia Brown, I am an undergraduate student at Chaminade University.

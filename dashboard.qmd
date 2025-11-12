@@ -1,16 +1,18 @@
 ---
 title: "dashboard"
 author: Sophia Brown
-Format: html
+format: html
 ---
 
-### Penguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.
+### Penguins are cool!
+
+Penguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.
 
 This data was introduced and provided to me through the CS 201 Introduction to R class. As I have worked with this data set for almost 8 weeks, I have gotten very familiar with it and had much practice with it regarding Data Vis.
 
 This is the Penguins' data.
 
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse) 
 library(here)
 library(palmerpenguins)
@@ -39,9 +41,9 @@ theme_minimal()
 
 ```{r, echo=FALSE}
 
-p2 <- ggplot(penguins, aes(x = island, y = species, color = species)) +
+ggplot(penguins, aes(x = island, y = species, color = species)) +
   geom_jitter(size = 3, alpha = 0.8, width = 0.2, height = 0.2) +
   labs(
-    title = "Penguin Species by Island", x = "Island", y = "Species", color = "Species") +
+    title = "Species by Island", x = "Island", y = "Species", color = "Species") +
   theme_minimal()
 ```
