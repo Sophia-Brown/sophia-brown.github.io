@@ -12,6 +12,9 @@ website:
       - href: about.qmd
         text: Home
       - dashboard.qmd
+  page-footer:
+    left: © Copyright 2025, Sophia Brown
+    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
         
 format:
   html:
@@ -20,6 +23,7 @@ format:
      dark: cosmo
     css: styles.css
     toc: true
+
 
 editor: visual
 
