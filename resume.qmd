@@ -4,6 +4,4 @@ title: "Resume"
 
 HELLO
 
-{{< pdf media/SophiaBrown_Resume2.pdf >}}
-
-![](media/SophiaBrown_Resume2.pdf){width="100%" height="600"}
+media/SophiaBrown_Resume3R.pdf

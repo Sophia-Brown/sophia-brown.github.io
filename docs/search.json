@@ -4,14 +4,14 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "HELLO\n{{&lt; pdf media/SophiaBrown_Resume2.pdf &gt;}}"
+    "text": "HELLO\nmedia/SophiaBrown_Resume3R.pdf"
   },
   {
     "objectID": "dashboard.html",
     "href": "dashboard.html",
     "title": "dashboard",
     "section": "",
-    "text": "Penguins are cool!\nPenguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.\nThis data was introduced and provided to me through the CS 201 Introduction to R class. As I have worked with this data set for almost 8 weeks, I have gotten very familiar with it and had much practice with it regarding Data Vis.\nThis is the Penguins’ data.\n\n\nRows: 344 Columns: 17\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (10): studyName, Species, Region, Island, Stage, Individual ID, Clutch C...\ndbl  (7): Sample Number, Culmen Length (mm), Culmen Depth (mm), Flipper Leng...\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\n\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_point()`)."
+    "text": "Penguins are cool!\nPenguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.\nThis data was introduced and provided to me through the CS 201 Introduction to R class. As I have worked with this data set for almost 8 weeks, I have gotten very familiar with it and had much practice with it regarding Data Vis.\nThis is the Penguins’ data."
   },
   {
     "objectID": "about.html",
