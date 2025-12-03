@@ -10,7 +10,7 @@ Penguins have been peoples fascinations for millennial. I strive to provide visu
 
 This data was introduced and provided to me through the CS 201 Introduction to R class. As I have worked with this data set for almost 8 weeks, I have gotten very familiar with it and had much practice with it regarding Data Vis.
 
-I chose this data due to my own strengths and familiarity with the data itself. I also genuinely find penguins interesting, especially their anatomy and lack of ability to fly.
+I chose this data due to my own strengths and familiarity with the data itself. I also genuinely find penguins interesting, especially their anatomy and inability to fly.
 
 This is the Penguins' data:
 
@@ -23,20 +23,25 @@ library(plotly)
 library(ggiraph)
 ```
 
+This graph illustrates the relationship between body mass of penguins and their flipper length.
+
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
 ggplot(penguins, aes(x = body_mass_g, y = flipper_length_mm, color = species)) +
   geom_point() +
-  labs(title = "Body Mass vs. Flipper Length") +
+  labs(
+    title = "Body Mass vs. Flipper Length",
+    x = "Body Mass (g)",
+    y = "Flipper Length (mm)"
+  ) +
   theme_minimal() +
-  theme(
-    legend.position = "none",
-    axis.title.x = element_blank(),
-    axis.title.y = element_blank()
-  )
+  theme(legend.position = "none") +
+geom_smooth(method = "lm", se = FALSE) +
+  scale_color_manual(values = c("#3E92CC", "#2A628F", "#13293D"))
+
 ```
 
-This data illustrates
+This second data visualization shows the positive correlation of culmen length and flipper length.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -44,36 +49,27 @@ ggplot(penguins, aes(x = culmen_length_mm, y = flipper_length_mm, color = specie
   geom_point(size = 3, alpha = 0.8) +
   labs(
     title = "Flipper Length vs. Culmen Length",
-    x = "",
-    y = ""
+    x = "Culmen Length (mm)",
+    y = "Flipper Length (mm)"
   ) +
   theme_minimal() +
-  theme(legend.position = "none")
+  theme(legend.position = "none") +
+geom_smooth(method = "lm", se = FALSE) +
+  scale_color_manual(values = c("#3E92CC", "#2A628F", "#13293D"))
 ```
 
-This data illustrates
+This last visualization expresses the strong relationship between the species of penguin and their habitat (island).
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
 ggplot(penguins, aes(x = island, y = species, color = species)) +
   geom_jitter(size = 3, alpha = 0.8, width = 0.2, height = 0.2) +
-  labs(
-    title = "Species by Island", x = "Island", y = "Species", color = "Species") +
-  theme_minimal()
-```
-
-This data illustrates
-
-```{r}
-
-ggplot(penguins, aes(x = island, y = species, color = species)) +
-  geom_jitter(size = 3, alpha = 0.8, width = 0.2, height = 0.2) +
+  scale_color_manual(values = c("#3E92CC", "#2A628F", "#13293D")) +
   labs(
     title = "Species Distribution Across Islands",
-    x = "",
-    y = ""
+    x = "Island",
+    y = "Species"
   ) +
   theme_minimal() +
   theme(legend.position = "none")
-
 ```
