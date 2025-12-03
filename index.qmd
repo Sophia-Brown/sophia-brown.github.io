@@ -22,4 +22,4 @@ My name is Sophia Brown, I am an undergraduate student at Chaminade University.
 
 I love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award. I moved to Hawai'i so that I may continue my passion for researching the local flora and fauna where ever I may live at the time.
 
-Thank you.
+This current CS 215 class focuses on an introduction to R, including its core language features and fundamental data science tools. Students will learn through a mix of lectures, discussions, assignments, hands-on work with real datasets, and a final project that can be used in future classes or research. The course builds a foundation for more advanced data science courses by developing essential knowledge, technical skills, and a data-driven mindset. Topics include the data science workflow—collecting, storing, and managing data; importing and wrangling datasets; working with the R language and database systems; analyzing data; creating visualizations; and communicating results effectively.
