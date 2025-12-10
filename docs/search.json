@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "HELLO\nmedia/SophiaBrown_Resume3R.pdf"
+  },
+  {
     "objectID": "dashboard.html",
     "href": "dashboard.html",
     "title": "Penguins Vis",
@@ -7,10 +14,17 @@
     "text": "Penguins are cool!\nPenguins have been peoples fascinations for millennial. I strive to provide visuals of their anatomy, population, and the inner workings of correlation to one another.\nThis data was introduced and provided to me through the CS 201 Introduction to R class. As I have worked with this data set for almost 8 weeks, I have gotten very familiar with it and had much practice with it regarding Data Vis.\nI chose this data due to my own strengths and familiarity with the data itself. I also genuinely find penguins interesting, especially their anatomy and inability to fly.\nThis is the Penguins’ data:\nThis graph illustrates the relationship between body mass of penguins and their flipper length. As we all know, a smaller p-value means that there is less chance the data is random. Thus, looking at these points on the graph, there is a high chance these relationships are related and not random.\n\n\n\n\n\n\n\n\n\nThis second data visualization shows the positive correlation of culmen length and flipper length. Again, the p-value is minute, thus these correlations are more likely to be random, rather than related.\n\n\n\n\n\n\n\n\n\nThis last visualization expresses the strong relationship between the species of penguin and their habitat (island)."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "HELLO\nmedia/SophiaBrown_Resume3R.pdf"
+    "text": "I have worked with INBRE, GS of America, CIFAL, UN, UH Manoa. Coupled with my work in INBRE, I have experience with IPA software, BioRender, cell culturing and the equipment used for such experience.\nI have managed and coordinated interns, such as United Sates Coast Guard. This includes my liaison at the National Guard. Within this group of interns, I also managed international interns in the United Nations. I provided, cultural integration itinerary, local restaurant locations, provided complimentary meals, and coordinated housing and physical wellness gymnasium access.\nIn addition, I have worked closely with the Natural Science and Mathematics Dean and most, if not all, Professors located in Wesselkamper. I have worked closely under Hilary Corcoran, Kumu Kahoali’i Keahi-Wood, Helen Turner, and other staff related to cultural practices on campus and the Data Science programs."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophia Brown",
+    "section": "",
+    "text": "My name is Sophia Brown, I am an undergraduate student at Chaminade University.\nI love doing BioMedical research, Environmental research, learning new things and obtaining new certificates. I was a Girl Scout for 13 years and got my Girl Scout Gold Award. I moved to Hawai’i so that I may continue my passion for researching the local flora and fauna where ever I may live at the time.\nThis current CS 215 class focuses on an introduction to R, including its core language features and fundamental data science tools. Students will learn through a mix of lectures, discussions, assignments, hands-on work with real datasets, and a final project that can be used in future classes or research. The course builds a foundation for more advanced data science courses by developing essential knowledge, technical skills, and a data-driven mindset. Topics include the data science workflow—collecting, storing, and managing data; importing and wrangling datasets; working with the R language and database systems; analyzing data; creating visualizations; and communicating results effectively."
   }
 ]
